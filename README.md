@@ -10,9 +10,9 @@
 
 <p><img src="https://cdn.simpleicons.org/powerbi/F2C811" alt="Power BI" width="15" height="15" />&nbsp;8+ years experience w/ Business Intelligence: Microsoft Power BI (DAX), KPI development and data visualization;</p>
 
-<p><img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" width="15" height="15" />&nbsp;8+ years experience w/ Python (Pandas, Scrapy) and R for data analysis, ETL and process automation;</p>
+<p><img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" width="15" height="15" />&nbsp;8+ years experience w/ Python for data analysis, ETL and process automation;</p>
 
-<p><img src="https://cdn.simpleicons.org/mysql/4479A1" alt="SQL" width="15" height="15" />&nbsp;8+ years experience w/ SQL, MySQL and Teradata;</p>
+<p><img src="https://cdn.simpleicons.org/mysql/4479A1" alt="SQL" width="15" height="15" />&nbsp;8+ years experience w/ SQL, MySQL, Oracle, SQL Server and Teradata;</p>
 
 <p><img src="https://cdn.simpleicons.org/databricks/FF3621" alt="Databricks" width="15" height="15" />&nbsp;Databricks and Medallion Architecture: ETL/ELT pipelines across Bronze, Silver and Gold layers;</p>
 
