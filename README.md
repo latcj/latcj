@@ -4,10 +4,6 @@
 
 <p><img src="https://em-content.zobj.net/source/skype/289/flag-brazil_1f1e7-1f1f7.png" alt="" width="15" height="15" /> I am a Data Analyst / BI Analyst / Analytics Engineer with 8+ years of experience turning fragmented data into reliable pipelines, validated tables and dashboards that support decisions. I currently work as a Senior Business Intelligence Analyst at Bradesco, in São Paulo, Brazil.</p>
 
-<p>🏦 At Bradesco, I support an Open Finance tribe of ~20 professionals: I built an automated Data Quality framework in Python and Databricks (adopted by ~9 teammates), unified dashboards from multiple tools into a single solution, and integrated Open Finance and CRM data, contributing to a 5% increase in customer conversion.</p>
-
-<p>🌍 Before that, I spent 6 years at RAZAC Trading (international trade), where I built a market intelligence product from public data (Python ETL → MySQL → Power BI) that increased customer prospecting by 30% and conversion by 10%, and later became a standalone product. I also worked at Gauge (allocated to Vivo), automating a monitoring process from 3 hours to 30 minutes (-83%).</p>
-
 <p>📊 To see more of my work, please have a look at the repositories here on GitHub: Machine Learning and analytics projects from my Postgraduate Degree in Data Analytics at FIAP, and a data pipeline project built during my degree in Systems Analysis and Development at Impacta.</p>
 
 <h2><strong>My Skills:</strong></h2>
