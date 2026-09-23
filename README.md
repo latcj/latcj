@@ -8,15 +8,15 @@
 
 <h2><strong>My Skills:</strong></h2>
 
-<p><img src="https://cdn.simpleicons.org/powerbi/F2C811" alt="Power BI" width="15" height="15" />&nbsp;8+ years experience w/ Business Intelligence: Microsoft Power BI (DAX), KPI development and data visualization;</p>
+<p><img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logoColor=black" alt="Power BI" height="18" />&nbsp;8+ years experience w/ Business Intelligence: Microsoft Power BI (DAX), KPI development and data visualization;</p>
 
-<p><img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" width="15" height="15" />&nbsp;8+ years experience w/ Python for data analysis, ETL and process automation;</p>
+<p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" height="18" />&nbsp;8+ years experience w/ Python for data analysis, ETL and process automation;</p>
 
-<p><img src="https://cdn.simpleicons.org/mysql/4479A1" alt="SQL" width="15" height="15" />&nbsp;8+ years experience w/ SQL, MySQL, Oracle, SQL Server and Teradata;</p>
+<p><img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" height="18" />&nbsp;8+ years experience w/ SQL, MySQL, Oracle, SQL Server and Teradata;</p>
 
-<p><img src="https://cdn.simpleicons.org/databricks/FF3621" alt="Databricks" width="15" height="15" />&nbsp;Databricks and Medallion Architecture: ETL/ELT pipelines across Bronze, Silver and Gold layers;</p>
+<p><img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" alt="Databricks" height="18" />&nbsp;Databricks and Medallion Architecture: ETL/ELT pipelines across Bronze, Silver and Gold layers;</p>
 
-<p><img src="https://cdn.simpleicons.org/microsoftazure/0078D4" alt="Azure" width="15" height="15" />&nbsp;Azure, MongoDB and ERP integrations;</p>
+<p><img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure" height="18" />&nbsp;Azure, MongoDB and ERP integrations;</p>
 
 <p>✅ Data Quality: automated validation frameworks that replace manual and ad-hoc testing;</p>
 
@@ -28,7 +28,7 @@
 
 <p>🗣️ Communication and storytelling: aligning with business areas and translating requirements into analytical solutions;</p>
 
-<p><img src="https://cdn.simpleicons.org/jira/0052CC" alt="Jira" width="15" height="15" />&nbsp;Tools: Jira, Confluence, Figma, Miro, GitHub, Excel and Integromat (Make).</p>
+<p><img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira" height="18" />&nbsp;Tools: Jira, Confluence, Figma, Miro, GitHub, Excel and Integromat (Make).</p>
 
 <h2><strong>Featured Projects:</strong></h2>
 
