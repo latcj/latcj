@@ -10,8 +10,6 @@
 
 <p>📊 To see more of my work, please have a look at the repositories here on GitHub: Machine Learning and analytics projects from my Postgraduate Degree in Data Analytics at FIAP, and a data pipeline project built during my degree in Systems Analysis and Development at Impacta.</p>
 
-<p>🔎 <strong>Open to work:</strong> Data Engineer, Data Analyst and Business Intelligence Analyst roles.</p>
-
 <h2><strong>My Skills:</strong></h2>
 
 <p><img src="https://cdn.simpleicons.org/powerbi/F2C811" alt="Power BI" width="15" height="15" />&nbsp;8+ years experience w/ Business Intelligence: Microsoft Power BI (DAX), KPI development and data visualization;</p>
